@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/newstoday/static/css/main.800d71c6.css",
+    "main.js": "/newstoday/static/js/main.3129139a.js",
+    "static/media/ApfelGrotezk-Regular.woff2": "/newstoday/static/media/ApfelGrotezk-Regular.8084bf2b95a79de475e1.woff2",
+    "index.html": "/newstoday/index.html",
+    "main.800d71c6.css.map": "/newstoday/static/css/main.800d71c6.css.map",
+    "main.3129139a.js.map": "/newstoday/static/js/main.3129139a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.800d71c6.css",
+    "static/js/main.3129139a.js"
+  ]
+}
